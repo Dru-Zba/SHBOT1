@@ -7,7 +7,7 @@ token = '509783416:AAHFiYj7hGw8Gbno-TBISmIF_6JBpej3f2k'
 
 # Настройки для подключения к БД. Пока это SQL-Lite
 
-connect = ()
+database_name = r'C:\Users\adruzhbinskiy\SHBot.db'
 
 
 # Прочие настройки
